@@ -288,3 +288,7 @@ async function parseYtVideoRedir(urlObj, newLen, res) {
   }
   return urlObj
 }
+
+
+from  https://www.luckydesigner.space/github-a-project-to-access-google/
+https://github.com/EtherDream/jsproxy/tree/master/cf-worker
